@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rasaneharshal@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/HarshalRasane21/Portfolio/blob/main/Resume.pdf](https://github.com/HarshalRasane21/Portfolio/blob/main/Resume.pdf)
+- 📄 Know about my experiences [Resume](https://harshalrasane21.github.io/Portfolio/Resume.pdf)
 
 #
 
