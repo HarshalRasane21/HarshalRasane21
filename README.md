@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Flutter, aws, gcp**
 
-- 👨‍💻 All of my projects are available at [PortFolio](https://harshalrasane21.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [PortFolio](https://portfolio-7fp4.onrender.com/)
 
 - 📫 How to reach me **rasaneharshal@gmail.com**
 
-- 📄 Know about my experiences [CV](https://harshalrasane21.github.io/Portfolio/Resume.pdf)
+- 📄 Know about my experiences [CV](https://portfolio-7fp4.onrender.com/assets/Harshal%20Rasane%20Resume-D_gbs3Fj.pdf)
 
 #
 
